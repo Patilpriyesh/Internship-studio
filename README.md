@@ -1,5 +1,6 @@
-# Internship-studio Internship 
-Retail Store Performance Analysis using MS-EXCEL 
+## Internship-studio Internship ##
+
+**Retail Store Performance Analysis using MS-EXCEL**
 
 I possess two datasets from a Retail establishment: one holds Customer transaction specifics, while the other records Customer response. 
 
